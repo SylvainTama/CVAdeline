@@ -104,6 +104,10 @@ body {
 	text-decoration: underline;
 }
 
+#competences {
+	line-height: 3em;
+}	
+
 #experiences {
 	text-align: center;
 }
