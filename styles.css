@@ -11,6 +11,8 @@ body {
 	width: 100%;
 	height: 100%;
 	justify-content: center;
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 
 #gauche {
@@ -86,8 +88,8 @@ body {
 	text-align: center;
 	color: #1C9AB9;
 	font-style: italic;
-	font-size: 1.2em;
-	line-height: 1em;
+	font-size: 1.3em;
+	line-height: 1.2em;
 }
 
 #droite {
@@ -96,17 +98,13 @@ body {
 }
 
 #droite h3 {
-	font-family: 'Merriweather', serif;
+	font-family: 'Dancing Script', cursive;
 }
 
 #competences B {
 	font-size: 1.2em;
 	text-decoration: underline;
 }
-
-#competences h3 {
-	margin-bottom: 2.5em;
-}	
 
 #experiences {
 	text-align: center;
@@ -119,7 +117,7 @@ body {
 
 #experiences td {
 	text-indent: 7em;
-	line-height: 1.4em;
+	line-height: 1.3em;
 }
 
 #formations {
@@ -133,6 +131,6 @@ body {
 
 #formations td {
 	text-indent: 7em;
-	line-height: 1.4em;
+	line-height: 1.3em;
 }
 
